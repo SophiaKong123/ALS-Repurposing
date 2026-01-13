@@ -1,0 +1,1 @@
+This project investigates potential drug repurposing candidates for Amyotrophic Lateral Sclerosis (ALS) using observational healthcare data and statistical modeling. The goal is to identify associations between medication exposure and ALS risk to inform hypotheses for further biological and clinical validation.
